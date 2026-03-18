@@ -18,7 +18,7 @@
   I developed a batch-processing workflow for airfoil analysis in XFLR5, enabling efficient comparison across candidate designs. The batch allowed for my team lead and other members to determine which airfoils would be best suited for the wing design we had come to a consensus on.
 
 
-### CAD Design –
+### Batch Analysis –
 ![Graphs of parameters for various wing configurations (airfoil: Wortmann FX 63-137)](images/airfoil_batch_analysis.png)
 Graphs of parameters for various wing configurations (airfoil: Wortmann FX 63-137) 
 Parameters clockwise from top-left - 
