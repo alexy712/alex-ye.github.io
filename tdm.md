@@ -19,14 +19,13 @@
 
 
 ### Correlation Matrix –
-![Sketch in CATIA used to design I-beam](images/SAMPE_CATIA_I-beam_sketch.png)
-Sketch in CATIA Used to Design I-beam
+![](images/)
+
 
 
 ### PCA Analysis Graph –
-![Flexural Analysis of Various Beam Designs](images/flexural-analysis.png)
+![](images/)
 
-Flexural Analysis of Each Beam Design
 
 
 
