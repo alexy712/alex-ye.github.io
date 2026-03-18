@@ -24,16 +24,19 @@
 Sketch in CATIA Used to Design I-beam
 
 
+
 ### Flexural Analysis –
 ![Flexural Analysis of Various Beam Designs](images/flexural-analysis.png)
 
 Flexural Analysis of Each Beam Design
 
 
+
 ### Three-Point Bend Test –
 ![Three-Point Bend Test on I-Beam Prototype](images/I-beam-3-point-bend-test.png)
 
 Three-Point Bend Test on I-Beam Prototype
+
 
 
 ### Results –
