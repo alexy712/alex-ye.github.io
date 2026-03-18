@@ -14,7 +14,7 @@ I'm a software developer focused on web and backend systems.
 [Composite Structural Research – SAMPE Composite Bridge Beam Elements](sampe.md)
 
 ### Project Two
-[Aerodynamics & Structures – SAE Aero Airfoil Batch Analysis]()
+[Aerodynamics & Structures – SAE Aero Airfoil Batch Analysis](sae.md)
 
 ### Project Three
 [Engine Data Synthesizer – Purdue Data Mine Collaboration with Rolls-Royce]()
