@@ -1,7 +1,3 @@
-# Alex Ye  
-Mechanical Engineering | Composites | Structural Analysis
-
-
 ## Composite Structural Research – SAMPE Bridge Project
 
 
