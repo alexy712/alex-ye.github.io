@@ -19,7 +19,7 @@
 
 
 ### CAD Design –
-![Graphs of parameters for various wing configurations (airfoil: Wortmann FX 63-137)](airfoil_batch_analysis.png)
+![Graphs of parameters for various wing configurations (airfoil: Wortmann FX 63-137)](images/airfoil_batch_analysis.png)
 Graphs of parameters for various wing configurations (airfoil: Wortmann FX 63-137) 
 Parameters clockwise from top-left - 
   - Coefficient of Lift (CL) over Coefficient of Drag (CD)
