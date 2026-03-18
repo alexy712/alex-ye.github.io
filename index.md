@@ -1,10 +1,7 @@
 # Alex Ye  
 Mechanical Engineering | Composites | Structural Analysis
 
-# 👋 Hi, I'm John Smith
-
-Welcome to my portfolio!  
-I'm a software developer focused on web and backend systems.
+My name is Alex Ye. I am an undergraduate student at Purdue University currently in my junior year.
 
 ---
 
@@ -17,16 +14,7 @@ I'm a software developer focused on web and backend systems.
 [Aerodynamics & Structures – SAE Aero Airfoil Batch Analysis](sae.md)
 
 ### Project Three
-[Engine Data Synthesizer – Purdue Data Mine Collaboration with Rolls-Royce]()
-
-### Project Four
-[CAD & Elemental Analysis – Finite Elemental Analysis of Aerospace Components]()
-
-### Project Five
-[Manufacturing & Prototyping – Manufacture Sequencing and CNC Manufacturing of CATIA-designed Assemblies]()
-
-### Project Five
-[Robotics Systems Engineering – DogCopter Custom Remote Control]()
+[Engine Data Synthesizer – Purdue Data Mine Collaboration with Rolls-Royce](tdm.md)
 
 ---
 
