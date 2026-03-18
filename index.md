@@ -8,18 +8,28 @@ I'm a software developer focused on web and backend systems.
 
 ---
 
-## 🚀 Projects
+## Projects -
 
-### 🟢 Project One
-A cool app that does X, Y, Z.  
-[View Project](sampe.md)
+### Project One 
+[Composite Structural Research – SAMPE Composite Bridge Beam Elements](sampe.md)
 
-### 🔵 Project Two
+### Project Two
+[Aerodynamics & Structures – SAE Aero Airfoil Batch Analysis]()
 
+### Project Three
+[Engine Data Synthesizer – Purdue Data Mine Collaboration with Rolls-Royce]()
+
+### Project Four
+[CAD & Elemental Analysis – Finite Elemental Analysis of Aerospace Components]()
+
+### Project Five
+[Manufacturing & Prototyping – Manufacture Sequencing and CNC Manufacturing of CATIA-designed Assemblies]()
+
+### Project Five
+[Robotics Systems Engineering – DogCopter Custom Remote Control]()
 
 ---
 
-## 📫 Contact
-
-- GitHub: https://github.com/johnsmith
-- Email: john@email.com
+## Contact
+- Phone: +1 703-504-8168
+- Email: alexye2005@gmail.com
